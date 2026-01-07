@@ -47,11 +47,11 @@ I have been an active participant in the **Formula Student Autonomous China (FSA
 
 * **🛠️ Technical Focus**
     <br>
-    `SLAM Algorithm` • `Chassis Design` • `Steer-by-wire` • `Brake-by-wire`
+    `SLAM Algorithm` • `Drive-by-wire Chassis` • `Autonomous Steering & Braking`
 
 * **✨ Contribution**
     <br>
-    Provided robust Localization and Mapping support for the racing vehicle, enabling high-speed autonomous navigation in complex track environments.
+    Developed the **Drive-by-wire Chassis System**, implementing precise autonomous steering and braking control. Additionally, provided robust **Localization and Mapping (SLAM)** support, enabling high-speed navigation in complex track environments.
 
 ---
 
