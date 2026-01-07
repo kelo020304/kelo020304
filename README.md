@@ -31,7 +31,7 @@ Previously, I received my B.Eng. in **Vehicle Engineering** from **Beijing Insti
 
 ### 🏎️ Formula Student Experience (2021-2025)
 
-<div align="center">
+<div align="center" style="line-height: 0;">
   <img src="fsdlogo.png" width="480" alt="BITFSD Logo" style="border-radius: 20px; display: block; margin: 0 auto;"/>
 </div>
 
@@ -64,12 +64,8 @@ I have been an active participant in the **Formula Student Autonomous China (FSA
 
 <br/>
 
-''######‵###·### 📊 G
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelo020304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelo020304&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>''
+" 符号即可
+-->
 
 ---
 
