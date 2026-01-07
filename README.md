@@ -41,7 +41,7 @@ I have been an active participant in the **Formula Student Autonomous China (FSA
 
 * **Team:** Beijing Institute of Technology Formula Student Driverless Team (BITFSD)
     * 🔗 [Official Website](https://www.bitfsd.com/homepage-en) | 🐙 [GitHub Organization](https://github.com/bitfsd)
-* **Role:** SLAM Algorithm Engineer / Core Member
+* **Work:** SLAM Algorithm / Chassis Design / Steer-by-wire / Brake-by-wire
 * **Contribution:** Provided robust Localization and Mapping support for the racing vehicle, enabling high-speed autonomous navigation in complex track environments.
 
 ---
