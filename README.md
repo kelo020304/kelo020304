@@ -32,7 +32,7 @@ Previously, I received my B.Eng. in **Vehicle Engineering** from **Beijing Insti
 ### 🏎️ Formula Student Experience (2021-2025)
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/6736252?v=4" width="180" alt="BITFSD Logo" style="border-radius: 20px"/>
+  <img src=fsd.jpg width="180" alt="BITFSD Logo" style="border-radius: 20px"/>
 </div>
 <br/>
 
