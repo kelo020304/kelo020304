@@ -20,10 +20,8 @@ Previously, I received my B.Eng. in **Vehicle Engineering** from **Beijing Insti
 
 ### 🔬 Research & Publications
 
-#### 📄 **ParkingE2E**
+#### 📄 **ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning （IROS 2024）**
 > *Co-author*
-> **ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning**
->
 > [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/qintonguav/ParkingE2E)
 > [![Arxiv](https://img.shields.io/badge/Arxiv-Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2408.02061)
 
