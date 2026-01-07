@@ -32,17 +32,26 @@ Previously, I received my B.Eng. in **Vehicle Engineering** from **Beijing Insti
 ### 🏎️ Formula Student Experience (2021-2025)
 
 <div align="center" style="line-height: 0;">
-  <img src="fsdlogo_1.png" width="680" alt="BITFSD Logo" style="border-radius: 20px; display: block; margin: 0 auto;"/>
+  <img src="fsdlogo.png" width="480" alt="BITFSD Logo" style="border-radius: 20px; display: block; margin: 0 auto;"/>
 </div>
 
 <br/>
 
 I have been an active participant in the **Formula Student Autonomous China (FSAC)** for 5 consecutive years.
 
-* **Team:** Beijing Institute of Technology Formula Student Driverless Team (BITFSD)
-    * 🔗 [Official Website](https://www.bitfsd.com/homepage-en) | 🐙 [GitHub Organization](https://github.com/bitfsd)
-* **Work:** SLAM Algorithm / Chassis Design / Steer-by-wire / Brake-by-wire
-* **Contribution:** Provided robust Localization and Mapping support for the racing vehicle, enabling high-speed autonomous navigation in complex track environments.
+* **🏁 Team**
+    <br>
+    Beijing Institute of Technology Formula Student Driverless Team (BITFSD)
+    <br>
+    🔗 [Official Website](https://www.bitfsd.com/homepage-en) | 🐙 [GitHub Organization](https://github.com/bitfsd)
+
+* **🛠️ Technical Focus**
+    <br>
+    `SLAM Algorithm` • `Chassis Design` • `Steer-by-wire` • `Brake-by-wire`
+
+* **✨ Contribution**
+    <br>
+    Provided robust Localization and Mapping support for the racing vehicle, enabling high-speed autonomous navigation in complex track environments.
 
 ---
 
