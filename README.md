@@ -64,8 +64,6 @@ I have been an active participant in the **Formula Student Autonomous China (FSA
 
 <br/>
 
--->
-
 ---
 
 <div align="center">
